@@ -1,0 +1,9 @@
+{
+    "name": "alion52/ai-assistant-ollama",
+    "description": "WordPress plugin: local AI assistant powered by Ollama",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.0"
+    }
+}
